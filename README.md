@@ -138,19 +138,7 @@ curl -X POST http://localhost:5000/predict \
 
 ---
 
-## 👤 Author
 
-**Iheb Salem**  
-AI Engineer | Software Engineering Graduate — ENIS Sfax  
-📧 salemiheb123@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/iheb-salem-a6245b337/) | [GitHub](https://github.com/ihebxsl)
-
----
-
-## 🏢 Context
-
-Developed as a **Summer Internship** at **[Tunisie Telecom](https://www.tunisietelecom.tn/particulier/)**, Tunis — Jul 2024 to Aug 2024.  
-Applied domain: **Cybersecurity / Phishing Detection**.
 
 ---
 
